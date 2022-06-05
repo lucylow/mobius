@@ -3,7 +3,7 @@ Mobius
 
 Mobius ai credit risk assessment
 
-![alt text]([http://url/to/img.png](https://github.com/lucylow/mobius/blob/main/logo/Screen%20Shot%202022-06-04%20at%201.57.41%20PM.png?raw=true))
+![alt text](https://github.com/lucylow/mobius/blob/main/logo/Screen%20Shot%202022-06-04%20at%201.57.41%20PM.png?raw=true)
 
 
 Project Organization
